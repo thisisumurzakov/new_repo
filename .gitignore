@@ -1,0 +1,5 @@
+.idea/
+scr/firstproject/media
+scr/firstproject/staticfiles
+scr/firstproject/logs
+scr/firstproject/db.sqlite3
